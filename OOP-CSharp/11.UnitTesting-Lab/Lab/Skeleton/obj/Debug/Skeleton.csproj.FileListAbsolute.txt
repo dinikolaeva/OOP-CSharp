@@ -1,0 +1,13 @@
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Skeleton\bin\Debug\Skeleton.exe.config
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Skeleton\bin\Debug\Skeleton.exe
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Skeleton\bin\Debug\Skeleton.pdb
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Skeleton\obj\Debug\Skeleton.csprojResolveAssemblyReference.cache
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Skeleton\obj\Debug\Skeleton.exe
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Skeleton\obj\Debug\Skeleton.pdb
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\11.Unit Testing-Lab\TestTemp\Lab\Skeleton\bin\Debug\Skeleton.exe.config
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\11.Unit Testing-Lab\TestTemp\Lab\Skeleton\bin\Debug\Skeleton.exe
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\11.Unit Testing-Lab\TestTemp\Lab\Skeleton\bin\Debug\Skeleton.pdb
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\11.Unit Testing-Lab\TestTemp\Lab\Skeleton\obj\Debug\Skeleton.csprojAssemblyReference.cache
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\11.Unit Testing-Lab\TestTemp\Lab\Skeleton\obj\Debug\Skeleton.csproj.CoreCompileInputs.cache
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\11.Unit Testing-Lab\TestTemp\Lab\Skeleton\obj\Debug\Skeleton.exe
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\11.Unit Testing-Lab\TestTemp\Lab\Skeleton\obj\Debug\Skeleton.pdb
