@@ -1,0 +1,13 @@
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-16April2020\Solution\RobotService\bin\Debug\netcoreapp3.0\RobotService.exe
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-16April2020\Solution\RobotService\bin\Debug\netcoreapp3.0\RobotService.deps.json
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-16April2020\Solution\RobotService\bin\Debug\netcoreapp3.0\RobotService.runtimeconfig.json
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-16April2020\Solution\RobotService\bin\Debug\netcoreapp3.0\RobotService.runtimeconfig.dev.json
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-16April2020\Solution\RobotService\bin\Debug\netcoreapp3.0\RobotService.dll
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-16April2020\Solution\RobotService\bin\Debug\netcoreapp3.0\RobotService.pdb
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-16April2020\Solution\RobotService\obj\Debug\netcoreapp3.0\RobotService.csprojAssemblyReference.cache
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-16April2020\Solution\RobotService\obj\Debug\netcoreapp3.0\RobotService.AssemblyInfoInputs.cache
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-16April2020\Solution\RobotService\obj\Debug\netcoreapp3.0\RobotService.AssemblyInfo.cs
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-16April2020\Solution\RobotService\obj\Debug\netcoreapp3.0\RobotService.csproj.CoreCompileInputs.cache
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-16April2020\Solution\RobotService\obj\Debug\netcoreapp3.0\RobotService.dll
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-16April2020\Solution\RobotService\obj\Debug\netcoreapp3.0\RobotService.pdb
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-16April2020\Solution\RobotService\obj\Debug\netcoreapp3.0\RobotService.genruntimeconfig.cache
