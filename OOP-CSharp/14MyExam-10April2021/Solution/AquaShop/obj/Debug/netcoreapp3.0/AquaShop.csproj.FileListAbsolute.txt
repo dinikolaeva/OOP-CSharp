@@ -1,0 +1,13 @@
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csprojAssemblyReference.cache
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache
