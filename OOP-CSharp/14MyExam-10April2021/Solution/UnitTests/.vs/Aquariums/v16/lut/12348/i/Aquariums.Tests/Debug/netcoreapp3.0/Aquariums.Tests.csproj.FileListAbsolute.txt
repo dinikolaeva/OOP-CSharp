@@ -1,0 +1,33 @@
+D:\U\Downloads\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.deps.json
+D:\U\Downloads\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+D:\U\Downloads\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+D:\U\Downloads\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.exe
+D:\U\Downloads\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+D:\U\Downloads\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\nunit.engine.netstandard.dll
+D:\U\Downloads\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Mono.Cecil.dll
+D:\U\Downloads\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.deps.json
+D:\U\Downloads\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.runtimeconfig.json
+D:\U\Downloads\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.runtimeconfig.dev.json
+D:\U\Downloads\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.dll
+D:\U\Downloads\UnitTests\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.AssemblyInfoInputs.cache
+D:\U\Downloads\UnitTests\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.AssemblyInfo.cs
+D:\U\Downloads\UnitTests\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.csproj.CopyComplete
+D:\U\Downloads\UnitTests\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.dll
+D:\U\Downloads\UnitTests\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.genruntimeconfig.cache
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\nunit.engine.netstandard.dll
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Mono.Cecil.dll
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.deps.json
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.exe
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.deps.json
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.runtimeconfig.json
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.runtimeconfig.dev.json
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.dll
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.csprojAssemblyReference.cache
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.AssemblyInfoInputs.cache
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.AssemblyInfo.cs
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.csproj.CopyComplete
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.dll
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.genruntimeconfig.cache

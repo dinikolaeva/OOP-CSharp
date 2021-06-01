@@ -1,0 +1,13 @@
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csprojAssemblyReference.cache
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.CoreCompileInputs.cache
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
+D:\ProjectsVisualBasics\03.Advanced & OOP\02.OOP\13.ExamPreparation\Exam-15December2019\Solution\UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache
